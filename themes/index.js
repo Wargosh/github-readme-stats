@@ -268,6 +268,12 @@ const themes = {
     icon_color: "ff1aff",
     text_color: "8080ff",
     bg_color: "141439",
+  },
+  jungle:{
+    title_color: "ff1aff",
+    icon_color: "ff1aff",
+    text_color: "273849",
+    bg_color: "ffffff",
   }
 };
 
